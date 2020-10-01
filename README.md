@@ -1,3 +1,8 @@
+# Digit-Recognizer-by-CNN
+this repo shows a code to recognize digits using CNN
+
+
+
 # Handwritten digit recognition using convolutional neural network.
 The objective of this project is to build a image-classifier using Convolutional Neural Networks to accurately categorize the handwritten digits. The data for this project can be found <a href="http://yann.lecun.com/exdb/mnist/">here</a> and the files are expected to be stored in the folder "/data/" relative to the repository.
 
